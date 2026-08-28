@@ -9,14 +9,44 @@
 
 </div>
 
-## About
+## What I Build
 
-Building SaaS products, AI systems and automation for real businesses.
+I turn ideas and broken workflows into software that businesses can actually use.
 
-## Stack
+**SaaS Products**  
+From prototype to launch-ready web applications with authentication, databases, payments and scalable backend logic.
 
-React · TypeScript · Supabase · PostgreSQL · n8n · OpenAI
+**AI Systems**  
+AI assistants, chat & voice agents and intelligent workflows connected to real business processes.
 
-## Website
+**Automation**  
+Systems that remove repetitive manual work by connecting APIs, databases, CRMs and internal tools.
 
-https://easaas.studio
+---
+
+## Selected Work
+
+### SaaS & Web Applications
+Full-stack products built with React, TypeScript, Supabase and PostgreSQL.
+
+### AI Agents
+Business-focused AI assistants connected to company data, APIs and automation workflows.
+
+### Workflow Automation
+Automated lead generation, qualification, outreach, notifications and CRM processes.
+
+---
+
+## Tech
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `n8n` `OpenAI` `Lovable` `Tailwind` `Vercel`
+
+---
+
+## Let's Build Something
+
+Have a product idea, an existing app that needs fixing, or a workflow that should be automated?
+
+**I'm open to selected freelance projects and collaborations.**
+
+→ https://easaas.studio
