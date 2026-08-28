@@ -1,0 +1,26 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-label="GitHub profile terminal — awaiting first sync">
+<rect width="900" height="300" fill="#0a0e14"/>
+<rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="#0a0e14" stroke="#1b2430" stroke-width="1"/>
+<rect x="0" y="0" width="900" height="56" rx="12" fill="#0d1219"/>
+<rect x="0" y="44" width="900" height="12" fill="#0d1219"/>
+<line x1="0" y1="56" x2="900" y2="56" stroke="#1b2430" stroke-width="1"/>
+<circle cx="26" cy="28" r="4.5" fill="#454e5c"/>
+<circle cx="42" cy="28" r="4.5" fill="#454e5c"/>
+<circle cx="58" cy="28" r="4.5" fill="#454e5c"/>
+<text x="80" y="23" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" font-weight="bold" fill="#3fb950" text-anchor="start" xml:space="preserve">emir@github</text>
+<text x="80" y="41" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">~ ./profile.sh --live</text>
+<circle cx="802" cy="28" r="3" fill="#454e5c"/>
+<text x="814" y="32" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#454e5c" text-anchor="start" letter-spacing="1" xml:space="preserve">SYNCING</text>
+<rect x="28" y="96" width="140" height="86" rx="8" fill="#0d1219" stroke="#1b2430" stroke-width="1"/>
+<text x="48" y="136" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="30" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="4" xml:space="preserve">E A</text>
+<text x="48" y="160" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="normal" fill="#6b7685" text-anchor="start" letter-spacing="2" xml:space="preserve">SAAS STUDIO</text>
+<text x="208" y="126" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="bold" fill="#1c6e85" text-anchor="start" xml:space="preserve">01</text>
+<text x="234" y="126" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="1.2" xml:space="preserve">SYSTEM.INFO</text>
+<line x1="208" y1="130" x2="872" y2="130" stroke="#161d27" stroke-width="1"/>
+<text x="208" y="154" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">Syncing with the GitHub API...</text>
+<text x="208" y="178" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">This panel refreshes automatically once the</text>
+<text x="208" y="200" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">"Update dynamic profile" Action runs.</text>
+<line x1="0" y1="260" x2="900" y2="260" stroke="#1b2430" stroke-width="1"/>
+<text x="28" y="284" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="start" letter-spacing="2" xml:space="preserve">01  02  03  04</text>
+<text x="872" y="284" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="end" letter-spacing="0.5" xml:space="preserve">awaiting first sync _</text>
+</svg>
