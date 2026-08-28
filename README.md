@@ -5,48 +5,53 @@
 <br/>
 <br/>
 
-<img src="./assets/terminal.svg" alt="Emir Arnautovic — live developer control-center profile" width="100%" />
+<img src="./assets/terminal.svg" alt="Emir Arnautovic — Full Stack SaaS Developer" width="100%" />
 
 </div>
 
-## What I Build
+<br/>
 
-I turn ideas and broken workflows into software that businesses can actually use.
+## 01 / SaaS Products
 
-**SaaS Products**  
-From prototype to launch-ready web applications with authentication, databases, payments and scalable backend logic.
+**Prototype → Production**
 
-**AI Systems**  
-AI assistants, chat & voice agents and intelligent workflows connected to real business processes.
+`React` `TypeScript` `Supabase` `PostgreSQL`
 
-**Automation**  
-Systems that remove repetitive manual work by connecting APIs, databases, CRMs and internal tools.
+I build launch-ready SaaS products with authentication, databases, payments and scalable backend logic.
 
 ---
 
-## Selected Work
+## 02 / AI Systems
 
-### SaaS & Web Applications
-Full-stack products built with React, TypeScript, Supabase and PostgreSQL.
+**Business Workflows → AI**
 
-### AI Agents
-Business-focused AI assistants connected to company data, APIs and automation workflows.
+`OpenAI` `AI Agents` `Voice AI` `APIs`
 
-### Workflow Automation
-Automated lead generation, qualification, outreach, notifications and CRM processes.
+AI assistants, chat and voice agents connected to real business processes, company data and existing tools.
 
 ---
 
-## Tech
+## 03 / Automation
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `n8n` `OpenAI` `Lovable` `Tailwind` `Vercel`
+**Manual Work → Automated**
+
+`n8n` `APIs` `CRM` `Integrations`
+
+Automated systems for lead generation, qualification, outreach, notifications and internal business workflows.
 
 ---
 
-## Let's Build Something
+<div align="center">
 
-Have a product idea, an existing app that needs fixing, or a workflow that should be automated?
+### Have something worth building?
 
-**I'm open to selected freelance projects and collaborations.**
+From a rough idea, an existing product that needs fixing,  
+or a workflow that should no longer be manual.
 
-→ https://easaas.studio
+**Let's turn it into a working product.**
+
+[**EA SaaS Studio →**](https://easaas.studio)
+
+<sub>Open to selected freelance projects & collaborations.</sub>
+
+</div>
