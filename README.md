@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/ea-logo.gif" alt="EA SaaS Studio" width="120" />
+
+<br/>
+
 <code>$ emir@github ~ ./profile.sh --live</code>
 
 <br/>
