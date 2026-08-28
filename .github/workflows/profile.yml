@@ -1,51 +1,43 @@
 name: Update dynamic profile
 
-"on":
+on:
+  workflow_dispatch:
   schedule:
-    # Runs once daily at 03:17 UTC. (Off-the-hour on purpose — GitHub
-    # heavily throttles jobs scheduled exactly on the hour.)
     - cron: "17 3 * * *"
-  workflow_dispatch: {}
 
 permissions:
   contents: write
 
-concurrency:
-  group: profile-update
-  cancel-in-progress: false
-
 jobs:
   update-profile:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Generate profile assets
+      - name: Generate profile
         env:
-          # The default token GitHub injects for this run. Scoped to
-          # this repository only. Never a hardcoded/personal secret.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: emirarnautovic83-cmd
         run: node scripts/generate-profile.mjs
 
-      - name: Commit changes if the SVG actually changed
+      - name: Commit updated profile
         run: |
-          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/terminal.svg
 
           if git diff --cached --quiet; then
-            echo "No changes in assets/terminal.svg — nothing to commit."
+            echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: refresh profile terminal stats [skip ci]"
+          git commit -m "chore: refresh profile stats"
           git push
