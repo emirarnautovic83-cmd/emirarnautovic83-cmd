@@ -1,6 +1,6 @@
-<svg width="900" height="637" viewBox="0 0 900 637" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-label="Live developer control-center profile card for emirarnautovic83-cmd">
-  <rect width="900" height="637" fill="#0a0e14"/>
-  <rect x="0.5" y="0.5" width="899" height="636" rx="12" fill="#0a0e14" stroke="#1b2430" stroke-width="1"/>
+<svg width="900" height="679" viewBox="0 0 900 679" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-label="Live developer control-center profile card for emirarnautovic83-cmd">
+  <rect width="900" height="679" fill="#0a0e14"/>
+  <rect x="0.5" y="0.5" width="899" height="678" rx="12" fill="#0a0e14" stroke="#1b2430" stroke-width="1"/>
 <rect x="0" y="0" width="900" height="56" rx="12" fill="#0d1219"/>
 <rect x="0" y="44" width="900" height="12" fill="#0d1219"/>
 <line x1="0" y1="56" x2="900" y2="56" stroke="#1b2430" stroke-width="1"/>
@@ -12,10 +12,10 @@
 <rect x="798.4" y="16" width="73.6" height="24" rx="4" fill="none" stroke="#1c6e85" stroke-width="1"/>
 <circle cx="812.4" cy="28" r="3" fill="#3fd0ff"/>
 <text x="824.4" y="32" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#3fd0ff" text-anchor="start" letter-spacing="1" xml:space="preserve">ONLINE</text>
-<line x1="264" y1="84" x2="264" y2="569" stroke="#161d27" stroke-width="1"/>
-<line x1="0" y1="597" x2="900" y2="597" stroke="#1b2430" stroke-width="1"/>
-<text x="28" y="621" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="start" letter-spacing="2" xml:space="preserve">01  02  03  04</text>
-<text x="872" y="621" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="end" letter-spacing="0.5" xml:space="preserve">synced 2026-08-28 _</text>
+<line x1="264" y1="84" x2="264" y2="611" stroke="#161d27" stroke-width="1"/>
+<line x1="0" y1="639" x2="900" y2="639" stroke="#1b2430" stroke-width="1"/>
+<text x="28" y="663" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="start" letter-spacing="2" xml:space="preserve">01  02  03  04</text>
+<text x="872" y="663" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="normal" fill="#454e5c" text-anchor="end" letter-spacing="0.5" xml:space="preserve">synced 2026-08-29 _</text>
   <rect x="28" y="92" width="140" height="86" rx="8" fill="#0d1219" stroke="#1b2430" stroke-width="1"/>
 <text x="48" y="132" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="30" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="4" xml:space="preserve">E A</text>
 <text x="48" y="156" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="normal" fill="#6b7685" text-anchor="start" letter-spacing="2" xml:space="preserve">SAAS STUDIO</text>
@@ -69,18 +69,21 @@
 <text x="306" y="367" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="1.2" xml:space="preserve">GITHUB.LIVE</text>
 <line x1="400.5" y1="363" x2="872" y2="363" stroke="#161d27" stroke-width="1"/>
 <text x="280" y="395" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">Public repos</text>
-<text x="425" y="395" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">1</text>
+<text x="425" y="395" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">4</text>
 <text x="280" y="416" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">Followers</text>
 <text x="425" y="416" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">0</text>
 <text x="280" y="437" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">Last activity</text>
-<text x="425" y="437" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">Pushed to emirarnautovic83-cmd · 29m ago</text>
-<text x="280" y="478" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="bold" fill="#1c6e85" text-anchor="start" xml:space="preserve">04</text>
-<text x="306" y="478" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="1.2" xml:space="preserve">CURRENTLY.BUILDING</text>
-<line x1="453" y1="474" x2="872" y2="474" stroke="#161d27" stroke-width="1"/>
-<text x="280" y="506" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#3fd0ff" text-anchor="start" xml:space="preserve">&gt;</text>
-<text x="298" y="506" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">AI agents for real business workflows</text>
-<text x="280" y="527" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#3fd0ff" text-anchor="start" xml:space="preserve">&gt;</text>
-<text x="298" y="527" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">SaaS products from prototype to launch</text>
+<text x="425" y="437" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">Pushed to emirarnautovic83-cmd · 14h ago</text>
+<text x="280" y="458" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#6b7685" text-anchor="start" xml:space="preserve">Recently updated</text>
+<text x="425" y="458" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">automation-workflow-showcase · 2h ago</text>
+<text x="425" y="479" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e6edf3" text-anchor="start" xml:space="preserve">ai-agent-system-showcase · 2h ago</text>
+<text x="280" y="520" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="bold" fill="#1c6e85" text-anchor="start" xml:space="preserve">04</text>
+<text x="306" y="520" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#3fd0ff" text-anchor="start" letter-spacing="1.2" xml:space="preserve">CURRENTLY.BUILDING</text>
+<line x1="453" y1="516" x2="872" y2="516" stroke="#161d27" stroke-width="1"/>
 <text x="280" y="548" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#3fd0ff" text-anchor="start" xml:space="preserve">&gt;</text>
-<text x="298" y="548" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">Automation systems that remove manual work</text>
+<text x="298" y="548" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">AI agents for real business workflows</text>
+<text x="280" y="569" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#3fd0ff" text-anchor="start" xml:space="preserve">&gt;</text>
+<text x="298" y="569" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">SaaS products from prototype to launch</text>
+<text x="280" y="590" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#3fd0ff" text-anchor="start" xml:space="preserve">&gt;</text>
+<text x="298" y="590" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve">Automation systems that remove manual work</text>
 </svg>
