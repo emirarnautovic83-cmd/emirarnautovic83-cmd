@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="./assets/ea-logo.gif" alt="EA SaaS Studio" width="120" />
+<img src="./assets/ea-logo.gif" alt="EA SaaS Studio" width="85" />
 
-<br/>
-
-<code>$ emir@github ~ ./profile.sh --live</code>
-
-<br/>
-<br/>
+<br/><br/>
 
 <img src="./assets/terminal.svg" alt="Emir Arnautovic — Full Stack SaaS Developer" width="100%" />
 
